@@ -22,8 +22,8 @@ This project is inspired by the Pomodoro technique, which aims to focus on impor
 
 ### Links
 
-- Code URL: [Code URL](https://github.com/Wauespter/FokusProject)
-- Active website URL: [Active website project](https://wauespter.github.io/QR-code-component-solution/)
+- [Code URL](https://github.com/Wauespter/FokusProject)
+- [Active website project](https://wauespter.github.io/FokusProject/)
 
 ## My process
 
