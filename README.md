@@ -48,11 +48,17 @@ This project is inspired by the Pomodoro technique, which aims to focus on impor
 - Use audio properties and methods, 'play()' and 'pause()' to control audio playback on the page;
 - Use the SetInterval method in the continuous execution of code snippets;
 - Use ClearInterval to interrupt code execution;
-- Concatenate strings and variables using the "+" operator to join strings and variables.
-- Refactor the code: We identified repeated lines of code and refactored the code, creating the first function of the alterContexto project.
-- Insert a timer on the screen by creating a specific function and using the innerHTML method to show the timer on the screen.
+- Concatenate strings and variables using the "+" operator to join strings and variables;
+- Refactor the code: We identified repeated lines of code and refactored the code, creating the first function of the alterContexto project;
+- Insert a timer on the screen by creating a specific function and using the innerHTML method to show the timer on the screen;
 - Implement Date object in the Fokus project to format minutes and seconds of the page timer;
 - Configure different timers for each of the three different page contexts: focus, short rest and long rest;
+- Configure different timers for each of the three different page contexts: focus, short rest and long rest;
+- I understood how to access and change elements in the DOM, a fundamental skill for creating dynamic interactions on web pages;
+- I explored how to capture and respond to events such as clicks and form submissions, allowing our application to react to user actions;
+- I learned how to maintain and update a local state for our application, using localStorage's ability to persist tasks and states between sessions;
+- I learned a little about the art of dynamically creating elements in JavaScript and inserting them into the DOM, providing a real-time update to the user interface;
+- I learned debugging and debugging techniques to make my daily life easier when I have behavior that is not desired. Therefore, I learned how to go step by step through my code and evolve the application.
 
 
 ### Continuous development
